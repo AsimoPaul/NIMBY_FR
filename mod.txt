@@ -1,13 +1,13 @@
 [ModMeta]
 schema=1
-name=Traducción al Español
-author=Weird and Wry
+name=Traduction française
+author=Asimo
 version=1.0.0
 
 [Language]
-code_iso_639_2=spa
-name=Español
+code_iso_639_2=FRfr
+name=Français
 
 [LanguageDict]
-code_iso_639_2=spa
+code_iso_639_2=FRfr
 po=game.po
