@@ -9,31 +9,31 @@
 
 msgctxt "10_minutes"
 msgid "10 minutes"
-msgstr "10 minutos"
+msgstr "10 minutes"
 
 msgctxt "15_minutes"
 msgid "15 minutes"
-msgstr "15 minutos"
+msgstr "15 minutes"
 
 msgctxt "20_minutes"
 msgid "20 minutes"
-msgstr "20 minutos"
+msgstr "20 minutes"
 
 msgctxt "30_minutes"
 msgid "30 minutes"
-msgstr "30 minutos"
+msgstr "30 minutes"
 
 msgctxt "5_minutes"
 msgid "5 minutes"
-msgstr "5 minutos"
+msgstr "5 minutes"
 
 msgctxt "60_minutes"
 msgid "60 minutes"
-msgstr "60 minutos"
+msgstr "60 minutes"
 
 msgctxt "accounting"
 msgid "Accounting"
-msgstr "Contabilidad"
+msgstr "Comptabilité"
 
 msgctxt "accounting_cash_total"
 msgid "$ Total"
@@ -41,51 +41,51 @@ msgstr "$ Total"
 
 msgctxt "accounting_construction"
 msgid "Construction"
-msgstr "Construcción"
+msgstr "Construction"
 
 msgctxt "accounting_construction_depots"
 msgid "Depots"
-msgstr "Depósitos"
+msgstr "Dépôts"
 
 msgctxt "accounting_construction_stations"
 msgid "Stations"
-msgstr "Estaciones"
+msgstr "Stations"
 
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total construcción"
+msgstr "Construction totale"
 
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
-msgstr "Vías"
+msgstr "Lignes"
 
 msgctxt "accounting_financing"
 msgid "Financing"
-msgstr "Financiación"
+msgstr "Financement"
 
 msgctxt "accounting_financing_credit"
 msgid "Credit"
-msgstr "Crédito"
+msgstr "Crédit"
 
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Interés"
+msgstr "Intérets"
 
 msgctxt "accounting_pax"
 msgid "Passengers"
-msgstr "Pasajeros"
+msgstr "Passagers"
 
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "Entrado tren"
+msgstr "A bord"
 
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensado"
+msgstr "Compensé"
 
 msgctxt "accounting_pax_lost"
 msgid "Lost"
-msgstr "Perdido"
+msgstr "Perdu"
 
 msgctxt "accounting_pax_post"
 msgid "pax"
@@ -93,43 +93,43 @@ msgstr "pax"
 
 msgctxt "accounting_pax_reached_depot"
 msgid "Reached depot"
-msgstr "Llegó a depósito"
+msgstr "Dépôt atteint"
 
 msgctxt "accounting_pax_reached_destination"
 msgid "Reached destination"
-msgstr "Llegó a destinación"
+msgstr "Destination atteinte"
 
 msgctxt "accounting_pax_reached_transfer"
 msgid "Reached transfer"
-msgstr "Llegó a transferencia"
+msgstr "Transfert atteint"
 
 msgctxt "accounting_pax_refunded"
 msgid "Refunded"
-msgstr "Reembolsado"
+msgstr "Remboursé"
 
 msgctxt "accounting_pax_refused_fare"
 msgid "Refused too high fare"
-msgstr "Rechazó tarifa demasiado alta"
+msgstr "Refus de payer suite un tarif trop élevé"
 
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Empezó viaje"
+msgstr "Voyage commencé"
 
 msgctxt "accounting_pax_waited_too_long"
 msgid "Waited too long"
-msgstr "Esperó demasiado"
+msgstr "Attente trop longue"
 
 msgctxt "accounting_period_day"
 msgid "Day"
-msgstr "Día"
+msgstr "Jour"
 
 msgctxt "accounting_period_lifetme"
 msgid "Lifetime"
-msgstr "Todo"
+msgstr "Total"
 
 msgctxt "accounting_period_month"
 msgid "Month"
-msgstr "Mes"
+msgstr "Mois"
 
 msgctxt "accounting_period_quarter"
 msgid "Quarter"
@@ -137,11 +137,11 @@ msgstr "Trimestre"
 
 msgctxt "accounting_period_week"
 msgid "Week"
-msgstr "Semana"
+msgstr "Semaine"
 
 msgctxt "accounting_period_year"
 msgid "Year"
-msgstr "Año"
+msgstr "Année"
 
 msgctxt "accounting_quarter1"
 msgid "Q1"
@@ -161,115 +161,115 @@ msgstr "T4"
 
 msgctxt "accounting_ticketing"
 msgid "Ticketing"
-msgstr "Billetes"
+msgstr "Billets"
 
 msgctxt "accounting_ticketing_compensations"
 msgid "Compensations"
-msgstr "Compensaciones"
+msgstr "Compensations"
 
 msgctxt "accounting_ticketing_fares"
 msgid "Fares"
-msgstr "Tarifas"
+msgstr "Tarifs"
 
 msgctxt "accounting_ticketing_refunds"
 msgid "Refunds"
-msgstr "Reembolsos"
+msgstr "Remboursements"
 
 msgctxt "accounting_trains"
 msgid "Trains"
-msgstr "Trenes"
+msgstr "Trains"
 
 msgctxt "accounting_trains_intervention"
 msgid "Interventions"
-msgstr "Intervenciones"
+msgstr "Interventions"
 
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "Nuevos trenes"
+msgstr "Nouveaux trains"
 
 msgctxt "accounting_trains_running"
 msgid "Running costs"
-msgstr "Costes de circulación"
+msgstr "Coûts de circulation"
 
 msgctxt "accounting_trains_sales"
 msgid "Train sales"
-msgstr "Venta de trenes"
+msgstr "Ventes de train"
 
 msgctxt "accounting_week_title"
 msgid "Week of {0} {1} {2}"
-msgstr "Semana de {0} {1} {2}"
+msgstr "Semaine de {0} {1} {2}"
 
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Permitir siempre"
+msgstr "Toujours autorisé"
 
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignorar"
+msgstr "Ignoré"
 
 msgctxt "acl_action_queue"
 msgid "Ask me"
-msgstr "Pregúntame"
+msgstr "Me demander"
 
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Permitido"
+msgstr "Autoriser"
 
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Denegado"
+msgstr "Refuser"
 
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "Si un amigo no invitado quiere entrar:"
+msgstr "Si un ami non invité veut entrer :"
 
 msgctxt "acl_pending"
 msgid "Pending"
-msgstr "Pendiente"
+msgstr "En attente"
 
 msgctxt "acl_stranger_action"
 msgid "If an uninvited stranger wants to join:"
-msgstr "Si un desconocido quiere entrar:"
+msgstr "Si un étranger non invité veut entrer :"
 
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalo de autoguarda:"
+msgstr "Intervalle de sauvegarde:"
 
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Total autoguardas:"
+msgstr "Autosave totales:"
 
 msgctxt "autosaving"
 msgid "Autosaving..."
-msgstr "Autoguarda..."
+msgstr "Sauvegarde..."
 
 msgctxt "back"
 msgid "Back"
-msgstr "Volver"
+msgstr "Retour"
 
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "mal ángulo"
+msgstr "mauvais angle"
 
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Las peticiones de entrar ignoradas se pueden autorizan en la ventana de administración del servidor."
+msgstr "Les demandes de connexion ignorées peuvent être autorisées dans la fenêtre d'administration du serveur."
 
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
-msgstr "{} quiere entrar en tu partida."
+msgstr "{} veut rejoindre votre partie."
 
 msgctxt "banner_join_stranger"
 msgid "{} (not a friend) wants to join your game."
-msgstr "{} (desconocido) quiere entrar en tu partida."
+msgstr "{} (non-ami) veut rejoindre votre partie."
 
 msgctxt "banner_new_join"
 msgid "{} joined the game."
-msgstr "{} ha entrado en la partida."
+msgstr "{} a rejoint la partie."
 
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Quieres entrar a una partida hospedada por {}? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "Vous souhaitez participer à une partie hébergée par {} ? Votre partie actuelle sera enregistrée automatiquement et vous quitterez le serveur actuel."
 
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
