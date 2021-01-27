@@ -77,7 +77,7 @@ msgstr "Passagers"
 
 msgctxt "accounting_pax_boarded"
 msgid "Boarded train"
-msgstr "A bord"
+msgstr "À bord"
 
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
@@ -201,11 +201,11 @@ msgstr "Semaine de {0} {1} {2}"
 
 msgctxt "acl_action_allow"
 msgid "Always allow"
-msgstr "Toujours autorisé"
+msgstr "Toujours autoriser"
 
 msgctxt "acl_action_drop"
 msgid "Ignore"
-msgstr "Ignoré"
+msgstr "Ignorer"
 
 msgctxt "acl_action_queue"
 msgid "Ask me"
@@ -213,11 +213,11 @@ msgstr "Me demander"
 
 msgctxt "acl_allowed"
 msgid "Allowed"
-msgstr "Autoriser"
+msgstr "Autorisé"
 
 msgctxt "acl_denied"
 msgid "Denied"
-msgstr "Refuser"
+msgstr "Refusé"
 
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
@@ -269,11 +269,11 @@ msgstr "{} a rejoint la partie."
 
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Vous souhaitez participer à une partie hébergée par {} ? Votre partie actuelle sera enregistrée automatiquement et vous quitterez le serveur actuel."
+msgstr "Vous souhaitez participer à une partie hébergée par {} ? Votre partie actuelle sera sauvegardée automatiquement et vous quitterez le serveur actuel."
 
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} te propone entrar a una partida hospedada por {1}. Quieres entrar? Tu partida actual se autoguardará y saldrás del servidor actual."
+msgstr "{0} vous propose de rejoindre une partie hébergée par {1}. Voulez-vous la rejoindre ? Votre partie actuelle sera sauvegardée automatiquement et vous quitterez le serveur actuel."
 
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
