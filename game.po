@@ -53,7 +53,7 @@ msgstr "Stations"
 
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Construction totale"
+msgstr "Total constructions"
 
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
@@ -557,7 +557,7 @@ msgstr "Cliquez sur un dépôt sur la carte pour éditer l'ordre"
 
 msgctxt "editor_station"
 msgid "Create new station platforms"
-msgstr "Créer de nouveaux quais"
+msgstr "Créer un nouveau quai"
 
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
@@ -973,7 +973,7 @@ msgstr Construisez votre plan de route pour activer ce quai"
 
 msgctxt "lineeditor_code"
 msgid "Code:"
-msgstr "Code:"
+msgstr "Code mission:"
 
 msgctxt "lineeditor_color"
 msgid "Color:"
@@ -1025,7 +1025,7 @@ msgstr "Lignes"
 
 msgctxt "lines_n_0"
 msgid "0 lines"
-msgstr "0 ligne"
+msgstr "Aucune ligne"
 
 msgctxt "lines_n_1"
 msgid "1 line"
@@ -1049,7 +1049,7 @@ msgstr "Solde:"
 
 msgctxt "loan_contract_accept"
 msgid "Take new loan"
-msgstr "Emprunter un nouveau prêt"
+msgstr "Demander un nouveau prêt"
 
 msgctxt "loan_contract_amount"
 msgid "$M Amount:"
@@ -1065,7 +1065,7 @@ msgstr "Paiement mensuel:"
 
 msgctxt "loan_contract_rate"
 msgid "APR:"
-msgstr "APR:"
+msgstr "Taux annuel:"
 
 msgctxt "loan_contract_total_interest"
 msgid "{} months interest:"
@@ -1077,7 +1077,7 @@ msgstr "Années:"
 
 msgctxt "loan_created_on"
 msgid "Created on:"
-msgstr "Créer en:"
+msgstr "Créé en:"
 
 msgctxt "loan_n"
 msgid "Loan {}"
@@ -1085,7 +1085,7 @@ msgstr "Crédit {}"
 
 msgctxt "loan_need_admin"
 msgid "Only admins can take loans"
-msgstr "Seuls les administrateurs peuvent emprunter."
+msgstr "Seuls les administrateurs peuvent demander un prêt."
 
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
@@ -1109,7 +1109,7 @@ msgstr "${} par mois"
 
 msgctxt "loan_title"
 msgid "${0} at {1:.3}% APR in {2} years"
-msgstr "${0} à {1:.3}% APR en {2} années"
+msgstr "${0} à un taux de {1:.3}% en {2} années"
 
 msgctxt "local_mod"
 msgid "Local mod to upload:"
@@ -1133,11 +1133,11 @@ msgstr "Native"
 
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Noms de cartes prioritaires:"
+msgstr "Langue de la carte:"
 
 msgctxt "matches_n_0"
 msgid "0 coincidencias"
-msgstr "0 correspondance"
+msgstr "aucune correspondance"
 
 msgctxt "matches_n_1"
 msgid "1 coincidencia"
@@ -1185,7 +1185,7 @@ msgstr "Téléchargement du mod..."
 
 msgctxt "mod_uploader_info"
 msgid "The mod uploader is a tool for mod developers. If you want to use mods when playing the game, subscribe to them in the Steam Workshop and enable them when creating a new game."
-msgstr "L'uploader de mod est un outil pour les développeurs de mod. Si vous souhaitez utiliser les mods lorsque vous jouez au jeu, abonnez-vous à l'atelier Steam et activez-les lors de la création d'un nouveau jeu."
+msgstr "L'uploader de mod est un outil pour les développeurs de mod. Si vous souhaitez utiliser les mods lorsque vous jouez au jeu, abonnez-vous dans le Steam Workshop et activez-les lors de la création d'un nouveau jeu."
 
 msgctxt "mod_uploader_info_guide"
 msgid "Mod development guide"
@@ -1213,7 +1213,7 @@ msgstr "Mod Uploader ne peut pas être utilisé avec une partie chargée."
 
 msgctxt "mod_uploader_update_mod"
 msgid "Update mod"
-msgstr "Actualiser mod"
+msgstr "Actualiser le mod"
 
 msgctxt "mod_uploader_view_ws_mod"
 msgid "View mod in Workshop"
@@ -1225,7 +1225,7 @@ msgstr "Version:"
 
 msgctxt "mode_map_default"
 msgid "Plain map"
-msgstr "Carte des plaines"
+msgstr "Carte vierge"
 
 msgctxt "mode_map_population"
 msgid "Population overlay"
@@ -1233,15 +1233,15 @@ msgstr "Carte de la population"
 
 msgctxt "mode_map_tracks"
 msgid "Plain tracks"
-msgstr "Pistes simples"
+msgstr "Voies"
 
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay"
-msgstr "Superposition de lignes"
+msgstr "Affichage des lignes"
 
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay"
-msgstr "Superposition de vitesses"
+msgstr "Affichage des vitesses"
 
 msgctxt "mods"
 msgid "Mods"
@@ -1345,15 +1345,15 @@ msgstr "Sep"
 
 msgctxt "mp_action_allow"
 msgid "Allow"
-msgstr "Autorisé"
+msgstr "Autoriser"
 
 msgctxt "mp_action_block"
 msgid "Block"
-msgstr "Bloqué"
+msgstr "Bloquer"
 
 msgctxt "mp_action_deny"
 msgid "Deny"
-msgstr "Refusé"
+msgstr "Refuser"
 
 msgctxt "mp_action_disconnect"
 msgid "Disconnect"
@@ -1361,15 +1361,15 @@ msgstr "Desconecté"
 
 msgctxt "mp_action_forget"
 msgid "Forget"
-msgstr "Oublié"
+msgstr "Oublier"
 
 msgctxt "mp_action_host_to_invite"
 msgid "Host to invite"
-msgstr "L'hôte à inviter"
+msgstr "Hébergez pour inviter"
 
 msgctxt "mp_action_invite"
 msgid "Invite"
-msgstr "Invité"
+msgstr "Inviter"
 
 msgctxt "mp_action_req_join"
 msgid "Request join"
@@ -1401,7 +1401,7 @@ msgstr "Gestion du serveur"
 
 msgctxt "mpinfo_stats_game"
 msgid "Game stats"
-msgstr "Statistique en Jeu"
+msgstr "Statistiques de Jeu"
 
 msgctxt "mpinfo_stats_net"
 msgid "Net stats"
@@ -1425,7 +1425,7 @@ msgstr "Nouvelles options de jeu"
 
 msgctxt "new_loan"
 msgid "New loan"
-msgstr "Nouveau crédit"
+msgstr "Nouvel emprunt"
 
 msgctxt "new_mod_id_placeholder"
 msgid "<New mod>"
@@ -1433,7 +1433,7 @@ msgstr "<Nouveau mod>"
 
 msgctxt "new_save_file_name"
 msgid "New save file name:"
-msgstr "Nouveau nom de fichier de sauvegarde:"
+msgstr "Nouveau nom du fichier de sauvegarde:"
 
 msgctxt "new_save_placeholder"
 msgid "<Create new save>"
@@ -1441,7 +1441,7 @@ msgstr "<Créer une nouvelle sauvegarde>"
 
 msgctxt "no_cash_pop_desc"
 msgid "Not enough money to build the blueprint. Delete some blueprint tracks or make more money."
-msgstr "Pas assez d'argent pour construire le plan. Supprimez certaines pistes du plan ou gagnez plus d'argent."
+msgstr "Pas assez d'argent pour construire le plan. Supprimez certaines voies du plan ou gagnez plus d'argent."
 
 msgctxt "ok"
 msgid "OK"
@@ -1465,7 +1465,7 @@ msgstr "Général"
 
 msgctxt "options_graphics"
 msgid "Graphics"
-msgstr "Graphisme"
+msgstr "Graphismes"
 
 msgctxt "options_mods_upload"
 msgid "Uploader"
@@ -1473,7 +1473,7 @@ msgstr "Uploader"
 
 msgctxt "osm_admin_level_10"
 msgid "Quarter"
-msgstr "Quatier"
+msgstr "Quartier"
 
 msgctxt "osm_admin_level_2"
 msgid "Country"
@@ -1485,7 +1485,7 @@ msgstr "Zone"
 
 msgctxt "osm_admin_level_4"
 msgid "State"
-msgstr "Etat"
+msgstr "Pays"
 
 msgctxt "osm_admin_level_5"
 msgid "Region"
@@ -1497,7 +1497,7 @@ msgstr "Département"
 
 msgctxt "osm_admin_level_7"
 msgid "Metro"
-msgstr "Métro"
+msgstr "Métropole"
 
 msgctxt "osm_admin_level_8"
 msgid "City"
@@ -1509,7 +1509,7 @@ msgstr "Arrondissement"
 
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr "0 viaduc"
+msgstr "Aucun viaduc"
 
 msgctxt "overpass_n_1"
 msgid "1 overpass"
@@ -1521,15 +1521,15 @@ msgstr "%d viaducs"
 
 msgctxt "overwrite"
 msgid "Overwrite"
-msgstr "Ecraser"
+msgstr "Écraser"
 
 msgctxt "overwrite_file"
 msgid "Overwrite file"
-msgstr "Ecraser fichier"
+msgstr "Écraser le fichier"
 
 msgctxt "ovewrite_name"
 msgid "Overwrite {}?"
-msgstr "Ecraser {}?"
+msgstr "Écraser {}?"
 
 msgctxt "paste"
 msgid "Paste"
@@ -1561,7 +1561,7 @@ msgstr "Regrouper par origine"
 
 msgctxt "paxlist_groupby_plan"
 msgid "Show trips"
-msgstr "Montrer itinéraire"
+msgstr "Montrer itinéraires"
 
 msgctxt "paxlist_n_new_pax"
 msgid "{} new pax"
@@ -1576,12 +1576,12 @@ msgid "Pick a local mod"
 msgstr "Choisissez un mod local"
 
 msgctxt "pick_placeholder"
-msgid "< Choisissez >"
-msgstr "< Elige >"
+msgid "< Pick >"
+msgstr "< Choisissez >"
 
 msgctxt "platform_n"
 msgid "Platform "
-msgstr "Platforme"
+msgstr "Quai"
 
 msgctxt "pop_reach"
 msgid "Reach: {}"
@@ -1617,7 +1617,7 @@ msgstr "Quitter la partie"
 
 msgctxt "renderer"
 msgid "Renderer:"
-msgstr "Renderer:"
+msgstr "Rendu:"
 
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
@@ -1629,7 +1629,7 @@ msgstr "OpenGL 3.1"
 
 msgctxt "reset_train"
 msgid "Reset train"
-msgstr "Réinistial. train"
+msgstr "Réinit. train"
 
 msgctxt "save"
 msgid "Save"
@@ -1637,7 +1637,7 @@ msgstr "Sauvegarder"
 
 msgctxt "save_file_name"
 msgid "Save file name"
-msgstr "Enregistrer le nom du fichier"
+msgstr "Nom de la sauvegarde"
 
 msgctxt "save_game"
 msgid "Save game"
@@ -1673,7 +1673,7 @@ msgstr "Excellent"
 
 msgctxt "sax_score"
 msgid "Satisfaction: {:.2f}"
-msgstr "Satisfacción: {:.2f}"
+msgstr "Satisfaction: {:.2f}"
 
 msgctxt "sax_tooltip"
 msgid "Overall: {0:+.2f} ({1}) | Time: {2:+.2f} | Fare: {3:+.2f}"
@@ -1681,7 +1681,7 @@ msgstr "Général: {0:+.2f} ({1}) | Temps: {2:+.2f} | Tarif: {3:+.2f}"
 
 msgctxt "scaling_mode"
 msgid "Scaling:"
-msgstr "Echelle:"
+msgstr "Échelle:"
 
 msgctxt "scaling_mode_auto"
 msgid "Auto"
@@ -1729,7 +1729,7 @@ msgstr "Nom:"
 
 msgctxt "station_name_use_auto"
 msgid "Use automatic name"
-msgstr "Utiliser les noms automatiques"
+msgstr "Utiliser des noms automatiques"
 
 msgctxt "station_pop_area"
 msgid "Area:"
@@ -1737,7 +1737,7 @@ msgstr "Zone:"
 
 msgctxt "stations_n_0"
 msgid "0 stations"
-msgstr "0 station"
+msgstr "Aucune station"
 
 msgctxt "stations_n_1"
 msgid "1 station"
@@ -1749,15 +1749,15 @@ msgstr "%d stations"
 
 msgctxt "steam_chat"
 msgid "Steam Chat and Friends"
-msgstr "Steam Chat et Amis"
+msgstr "Chat Steam et Amis"
 
 msgctxt "steam_chat_client_info"
 msgid "The Join Game options in Steam Chat and Steam Friends can be used to request access to other player games."
-msgstr "Les options Rejoindre le jeu dans Steam Chat et Steam Friends peuvent être utilisées pour demander l'accès à d'autres jeux de joueurs."
+msgstr "Les options Rejoindre le jeu dans le chat Steam et les amis Steam peuvent être utilisées pour demander l'accès à d'autres jeux de joueurs."
 
 msgctxt "steam_chat_server_info"
 msgid "The Invite options in Steam Chat and Steam Friends can be used to invite other players to your hosted game. Your settings for the the Access rules apply to Steam invites."
-msgstr "Les options d'invitation dans Steam Chat et Steam Friends peuvent être utilisées pour inviter d'autres joueurs à votre partie hébergée. Vos paramètres pour les règles d'accès s'appliquent aux invitations Steam."
+msgstr "Les options d'invitation dans le chat Steam et les amis Steam peuvent être utilisées pour inviter d'autres joueurs à votre partie hébergée. Vos paramètres pour les règles d'accès s'appliquent aux invitations Steam."
 
 msgctxt "steam_friends"
 msgid "Steam Friends"
@@ -1765,7 +1765,7 @@ msgstr "Amis Steam"
 
 msgctxt "steamworks_id"
 msgid "Steamworks ID:"
-msgstr "Steamworks ID:"
+msgstr "ID Steamworks:"
 
 msgctxt "stop_idx"
 msgid "Stop {}"
@@ -1773,7 +1773,7 @@ msgstr "Arrêt {}"
 
 msgctxt "stops_n_0"
 msgid "0 stops"
-msgstr "0 arrêt"
+msgstr "Aucun arrêt"
 
 msgctxt "stops_n_1"
 msgid "1 stop"
@@ -1785,7 +1785,7 @@ msgstr "%d arrêts"
 
 msgctxt "strangers"
 msgid "Strangers"
-msgstr "Etrangers"
+msgstr "Étrangers"
 
 msgctxt "subs_in_workshop"
 msgid "Subscribe in Workshop"
@@ -1793,7 +1793,7 @@ msgstr "Abonnez-vous au Workshop"
 
 msgctxt "subscribe_to_mods"
 msgid "Subscribe to mods"
-msgstr "Abonnez-vous aux mods"
+msgstr "S'abonner à des mods"
 
 msgctxt "time_h_m"
 msgid "{0}h {1}m"
@@ -1821,7 +1821,7 @@ msgstr "Total"
 
 msgctxt "track_editor"
 msgid "Tracks"
-msgstr "Pistes"
+msgstr "Voies"
 
 msgctxt "track_ground"
 msgid "Ground"
@@ -1837,7 +1837,7 @@ msgstr "Sol"
 
 msgctxt "track_hits"
 msgid "track hits"
-msgstr "Problèmes piste"
+msgstr "Collision de voies"
 
 msgctxt "track_metro1"
 msgid "Metro depth 1"
@@ -1881,19 +1881,19 @@ msgstr "Dupliquer"
 
 msgctxt "train_code_edit"
 msgid "Serial:"
-msgstr "N. serie:"
+msgstr "N. série:"
 
 msgctxt "train_decal_color_edit"
 msgid "Decal color:"
-msgstr "Decal. de couleur:"
+msgstr "Couleur du motif:"
 
 msgctxt "train_decal_edit"
 msgid "Decal:"
-msgstr "Decal.:"
+msgstr "Motif:"
 
 msgctxt "train_decal_pick_edit"
 msgid "Pick a decal"
-msgstr "Choisissez un decal."
+msgstr "Choisissez un motif"
 
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
@@ -1929,7 +1929,7 @@ msgstr "Emplacement:"
 
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenace cost:"
-msgstr "Coût de maintenance:"
+msgstr "Coûts de maintenance:"
 
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
@@ -1953,7 +1953,7 @@ msgstr "Pax / max:"
 
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "Coût de circulation:"
+msgstr "Coûts de fonctionnement:"
 
 msgctxt "train_info_running_cost_f"
 msgid "${:.4} per km per pax"
@@ -1969,7 +1969,7 @@ msgstr "Statut:"
 
 msgctxt "train_info_status_circulation"
 msgid "Running"
-msgstr "En cours de circulation"
+msgstr "Circule actuellement"
 
 msgctxt "train_info_status_in_storage"
 msgid "Stored"
@@ -1977,11 +1977,11 @@ msgstr "Stocké"
 
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
-msgstr "Pertes ou mauvaises commandes"
+msgstr "Perdu ou mauvaises indications"
 
 msgctxt "train_info_status_no_path_to_destination"
 msgid "No path to destination"
-msgstr "No path to destination"
+msgstr "Pas de chemin vers la destination"
 
 msgctxt "train_info_storing"
 msgid "Storing in:"
@@ -1989,7 +1989,7 @@ msgstr "Stocker dans:"
 
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train position to its next stop or depot, pay the costs of relocation, refund its fares, and pay a compensation fine. The price is ${}."
-msgstr "Cette intervention réinitialisera la position du train à son prochain arrêt ou dépôt, paiera les frais de déménagement, remboursera ses tarifs et paiera une amende de compensation. Le prix est de ${}."
+msgstr "Cette intervention réinitialisera la position du train à son prochain arrêt ou dépôt, vous paierez les frais de remorquage, rembourserez les billets et paierez une amende, pour un total de ${}."
 
 msgctxt "train_intervention_dialog_title"
 msgid "Train intervention"
@@ -1997,7 +1997,7 @@ msgstr "Intervention sur le train"
 
 msgctxt "train_invalid_order"
 msgid "Invalid order"
-msgstr "Commande invalide"
+msgstr "Ordres invalides"
 
 msgctxt "train_list_filter_alert"
 msgid "Only alert warnings"
@@ -2029,7 +2029,7 @@ msgstr "Nom:"
 
 msgctxt "train_purchase_no_cash"
 msgid "Not enough money for purchase"
-msgstr "Pas assez d'argent pour acheter"
+msgstr "Pas assez d'argent pour cet achat"
 
 msgctxt "train_purchase_no_cash_desc"
 msgid "Not enough money to purchase the train(s). Pick a cheaper train, less trains, less cars, or make more money."
@@ -2037,7 +2037,7 @@ msgstr "Pas assez d'argent pour acheter le(s) train(s). Choisissez un train moin
 
 msgctxt "train_sched_add"
 msgid "Toggle new slots mode"
-msgstr "Basculer le nouveau mode des créneaux horaires"
+msgstr "Passer en mode création de créneaux"
 
 msgctxt "train_sched_add_help"
 msgid "Click anywhere to add a new schedule slot"
@@ -2045,7 +2045,7 @@ msgstr "Cliquez n'importe où pour ajouter un nouveau créneau horaire"
 
 msgctxt "train_sched_clear_all_multi"
 msgid "Delete all {} slots"
-msgstr "Supprimer tous les {} créneaux"
+msgstr "Supprimer tous les créneaux de {}"
 
 msgctxt "train_sched_clear_all_single"
 msgid "Delete all slots"
@@ -2053,11 +2053,11 @@ msgstr "Supprimer tous les créneaux"
 
 msgctxt "train_sched_clear_day"
 msgid "Delete all {0} slots from train {1}"
-msgstr "Supprimer tous les créneaux {0} pour le train {1}"
+msgstr "Supprimer tous les créneaux de {0} pour le train {1}"
 
 msgctxt "train_sched_copy_day"
 msgid "Copy all {0} slots from train {1}"
-msgstr "Copier tous les créneaux {0} pour le train {1}"
+msgstr "Copier tous les créneaux de {0} pour le train {1}"
 
 msgctxt "train_sched_copy_slot"
 msgid "Copy selected slot"
@@ -2065,7 +2065,7 @@ msgstr "Copier le créneau sélectionné"
 
 msgctxt "train_sched_copy_week"
 msgid "Copy entire week schedule of train {}"
-msgstr "Copier toute la programmation du train {}"
+msgstr "Copier la programmation du train {}"
 
 msgctxt "train_sched_del"
 msgid "Delete selected slot"
@@ -2101,7 +2101,7 @@ msgstr "Train"
 
 msgctxt "train_sched_noun_week"
 msgid "Week"
-msgstr "Semmaine"
+msgstr "Semaine"
 
 msgctxt "train_sched_noun_week_all"
 msgid "Week *"
@@ -2109,23 +2109,23 @@ msgstr "Semaine *"
 
 msgctxt "train_sched_paste_all_day"
 msgid "Paste slots in every day"
-msgstr "Coller tous les créneaux à tous les jours"
+msgstr "Coller les créneaux dans tous les jours"
 
 msgctxt "train_sched_paste_all_train"
 msgid "Paste slots in every train {} schedule"
-msgstr "Coller des créneaux dans l'horaire de chaque train {}"
+msgstr "Coller les créneaux dans le planning de chaque train {}"
 
 msgctxt "train_sched_paste_day"
 msgid "Paste slots on train {0} {1} schedule"
-msgstr "Coller les créneaux pour le train {0} {1}"
+msgstr "Coller les créneaux du {1} pour le train {0}"
 
 msgctxt "train_sched_paste_week"
 msgid "Replace entire week schedule in train {}"
-msgstr "Remplacer les créneaux horaires d'une semaine entière dans le train {}"
+msgstr "Remplacer la programmation hebdomadaire pour le train {}"
 
 msgctxt "train_sched_paste_week_all"
 msgid "Replace entire week schedule in all trains"
-msgstr "Remplacer tous les créneaux horaires de la semaine entière sur tous les trains"
+msgstr "Coller la programmation hebdomadaire sur tous les trains"
 
 msgctxt "train_sched_slot_kind"
 msgid "Order:"
@@ -2157,7 +2157,7 @@ msgstr "Total pour %d unités"
 
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
-msgstr "Nettoyer la sélection"
+msgstr "Effacer la sélection"
 
 msgctxt "traineditor_delete_all_selected"
 msgid "Delete selected trains"
@@ -2165,7 +2165,7 @@ msgstr "Supprimer les trains sélectionnés"
 
 msgctxt "traineditor_overflow_desc"
 msgid "Too many trains selected to show the slot editor, but it is still possible to use some bulk editing operations."
-msgstr "Trop de trains sélectionnés pour afficher l'éditeur de créneaux, mais il est toujours possible d'utiliser certaines opérations d'édition en masse."
+msgstr "Trop de trains sont sélectionnés pour afficher l'éditeur de créneaux, mais il est toujours possible d'utiliser certaines opérations d'édition en masse."
 
 msgctxt "traineditor_select_all"
 msgid "Select all trains"
@@ -2181,11 +2181,11 @@ msgstr "Supprimer les trains sélectionnés"
 
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr "Listez les trains et modifiez leurs détails et leur horaire"
+msgstr "Listez les trains et modifiez leurs détails et leur planning"
 
 msgctxt "traineditor_tooltip_sched_mode"
 msgid "Edit the schedule of multiple trains simultaneously"
-msgstr "Modifier l'horaire de plusieurs trains simultanément"
+msgstr "Modifier le planning de plusieurs trains simultanément"
 
 msgctxt "traineditor_tooltip_tz_selector"
 msgid "Time zone"
@@ -2201,7 +2201,7 @@ msgstr "Trains"
 
 msgctxt "trains_models_n_0"
 msgid "0 models"
-msgstr "0 modèle"
+msgstr "Aucun modèle"
 
 msgctxt "trains_models_n_1"
 msgid "1 model"
@@ -2237,7 +2237,7 @@ msgstr "Pas assez de privilèges avec le compte utilisateur actuel dans Steam"
 
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr "Délai d'expiration lors de la connexion à Steam"
+msgstr "Expiration lors de la connexion à Steam"
 
 msgctxt "ugc_some_rule_req"
 msgid "Selected local mod is empty"
@@ -2281,11 +2281,11 @@ msgstr "Inconnu"
 
 msgctxt "update_note"
 msgid "Update note:"
-msgstr "Note d'Upload:"
+msgstr "Note de mise à jour:"
 
 msgctxt "upload_mod"
 msgid "Upload mod"
-msgstr "Uploader mod"
+msgstr "Uploader le mod"
 
 msgctxt "view_in_workshop"
 msgid "View in Workshop"
@@ -2365,11 +2365,11 @@ msgstr "Mercredi"
 
 msgctxt "workshop_more_langs"
 msgid "More languages"
-msgstr "Plus de langages"
+msgstr "Plus de langues"
 
 msgctxt "wrong_length"
 msgid "wrong length"
-msgstr "mauvaise longueure"
+msgstr "mauvaise longueur"
 
 msgctxt "wrong_protocol"
 msgid "Protocol mismatch with server. Make sure both your client and the server are updated to the latest game version."
