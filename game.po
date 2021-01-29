@@ -1037,7 +1037,7 @@ msgstr "%d lignes"
 
 msgctxt "load_game"
 msgid "Load game"
-msgstr "Charger une partie"
+msgstr "Charger"
 
 msgctxt "loading_elip"
 msgid "Loading..."
