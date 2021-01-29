@@ -69,7 +69,7 @@ msgstr "Crédit"
 
 msgctxt "accounting_financing_interest"
 msgid "Interest"
-msgstr "Intérets"
+msgstr "Intérêts"
 
 msgctxt "accounting_pax"
 msgid "Passengers"
@@ -81,7 +81,7 @@ msgstr "À bord"
 
 msgctxt "accounting_pax_compensated"
 msgid "Compensated"
-msgstr "Compensé"
+msgstr "A reçu une compensation"
 
 msgctxt "accounting_pax_lost"
 msgid "Lost"
@@ -237,7 +237,7 @@ msgstr "Intervalle de sauvegarde:"
 
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Autosave totales:"
+msgstr "Autosave totales:" ("Sauvegardes automatiques" plus simplement peut-être)
 
 msgctxt "autosaving"
 msgid "Autosaving..."
@@ -349,11 +349,11 @@ msgstr "Info"
 
 msgctxt "confirm_bp"
 msgid "Do you want to build the current blueprint?"
-msgstr "Vous voulez construire le plan actuel ?"
+msgstr "Voulez-vous construire le plan actuel ?"
 
 msgctxt "confirm_bp_price"
 msgid "Do you want to build the current blueprint for ${}?"
-msgstr "Vous voulez construire les plans actuels pour un prix de ${} ?"
+msgstr "Voulez-vous construire les plans actuels pour un prix de ${} ?"
 
 msgctxt "confirm_construction"
 msgid "Confirm construction"
@@ -365,7 +365,7 @@ msgstr "Confirmer la suppression"
 
 msgctxt "confirm_delete_desc"
 msgid "One or more selected tracks are already built. Deleting them will not refund your money. This operation cannot be undone. Are you sure?"
-msgstr "Une ou plusieurs voies sélectionnées sont déjà construites. Leur suppression ne vous permettra pas de récupérer votre argent. Cette opération ne peut pas être annulée. Êtes-vous sûr ?"
+msgstr "Une ou plusieurs voies sélectionnées sont déjà construites. Les supprimer ne vous permettra pas de récupérer votre argent. Cette opération ne peut pas être annulée. Êtes-vous sûr ?"
 
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
@@ -377,7 +377,7 @@ msgstr "Conflits"
 
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed. Move, edit or delete all tracks marked in red."
-msgstr "Une ou plusieurs pistes ont des conflits et ne peuvent être construites. Déplacez, modifiez ou supprimez toutes les voies marquées en rouge."
+msgstr "Une ou plusieurs voies sont en conflit et ne peuvent être construites. Déplacez, modifiez ou supprimez toutes les voies marquées en rouge."
 
 msgctxt "connecting_elip"
 msgid "Connecting..."
@@ -409,11 +409,11 @@ msgstr "Crédits"
 
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Licences"
+msgstr "Remerciements"
 
 msgctxt "credits_art"
 msgid "Art"
-msgstr "Illustration"
+msgstr "Illustrations"
 
 msgctxt "credits_programming"
 msgid "Programming and design"
@@ -421,11 +421,11 @@ msgstr "Programmation et conception"
 
 msgctxt "credits_thanks"
 msgid "Thanks"
-msgstr "Remerciement"
+msgstr "Remerciements"
 
 msgctxt "crossings_n_0"
 msgid "0 crossings"
-msgstr "0 cruces"
+msgstr "Aucun passage à niveau"
 
 msgctxt "crossings_n_1"
 msgid "1 crossing"
@@ -469,7 +469,7 @@ msgstr "Train {}"
 
 msgctxt "delete_tracks"
 msgid "Delete tracks"
-msgstr "Supprimer voies"
+msgstr "Supprimer les voies"
 
 msgctxt "demand_pax_overall"
 msgid "{:.1f} pax/s"
@@ -477,11 +477,11 @@ msgstr "{:.1f} pax/s"
 
 msgctxt "depot_at"
 msgid "Depot at"
-msgstr "Dépot à"
+msgstr "Dépôt à"
 
 msgctxt "depots_n_0"
 msgid "0 depots"
-msgstr "0 dépot"
+msgstr "Aucun dépôt"
 
 msgctxt "depots_n_1"
 msgid "1 depot"
@@ -509,15 +509,15 @@ msgstr "Plein écran"
 
 msgctxt "display_mode_windowed"
 msgid "Windowed"
-msgstr "Fenétré"
+msgstr "Fenêtré"
 
 msgctxt "display_mode_windowed_fullscreen"
 msgid "Windowed fullscreen"
-msgstr "Plein-écran Fenétré"
+msgstr "Plein-écran Fenêtré"
 
 msgctxt "display_screen"
 msgid "Display:"
-msgstr "Ecran:"
+msgstr "Écran:"
 
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
@@ -549,7 +549,7 @@ msgstr "Cliquez sur les noms des quais pour ajouter des arrêts à la ligne"
 
 msgctxt "editor_select_add_waypoint"
 msgid "Click track segments to add waypoints to the line"
-msgstr "Cliquez sur les sections de piste pour ajouter des points de passage"
+msgstr "Cliquez sur les sections de voie pour ajouter des points de passage"
 
 msgctxt "editor_select_pick_depot"
 msgid "Click a depot on the map to set this train slot order"
@@ -557,7 +557,7 @@ msgstr "Cliquez sur un dépôt sur la carte pour éditer l'ordre"
 
 msgctxt "editor_station"
 msgid "Create new station platforms"
-msgstr "Créer de nouveaux quais de gare"
+msgstr "Créer de nouveaux quais"
 
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
@@ -565,11 +565,11 @@ msgstr "Echap pour revenir au mode Edition"
 
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
-msgstr "Clic gauche sur les points de passage de fin de piste pour continuer une piste existante"
+msgstr "Cliquez sur le point de contrôle au bout de la voie pour la prolonger"
 
 msgctxt "editor_tip_add_left2"
 msgid "Left click anywhere else to create a new track"
-msgstr "Clic gauche pour commencer une nouvelle piste"
+msgstr "Faites un clic gauche n'importe où ailleurs pour commencer une nouvelle voie"
 
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
@@ -577,7 +577,7 @@ msgstr "Echap pour revenir au mode Edition"
 
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
-msgstr "Clic gauche pour créer un embranchement"
+msgstr "Faites un clic gauche pour créer cet embranchement"
 
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to see a new track branch"
@@ -585,7 +585,7 @@ msgstr "Passez le curseur près d'une voie existante pour voir une nouvelle bran
 
 msgctxt "editor_tip_branch_shift"
 msgid "Press shift for opposite direction"
-msgstr "Appuyez sur Shift pour une direction différente"
+msgstr "Appuyez sur Shift pour changer la direction"
 
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
@@ -593,19 +593,19 @@ msgstr "Echap pour annuler"
 
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
-msgstr "Cliquez à gauche pour créer un nouveau segment de voie. Maintenez Shift enfoncée pour continuer à créer d'autres segments."
+msgstr "Faites un clic gauche pour créer un nouveau segment de voie. Maintenez Shift pour continuer de créer d'autres segments."
 
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
-msgstr "Passez le curseur sur un bout de piste existant pour voir comment il serait lié à votre piste actuelle"
+msgstr "Passez le curseur sur un bout de voie existant pour voir comment il serait, une fois lié à votre voie actuelle"
 
 msgctxt "editor_tip_create_del"
 msgid "Del to delete selected tracks"
-msgstr "Suppr pour supprimer les pistes sélectionnées"
+msgstr "Suppr pour supprimer les voies sélectionnées"
 
 msgctxt "editor_tip_create_drag"
 msgid "Drag any selected track control point to move the selection"
-msgstr "Faites glisser n'importe quel point de contrôle de la piste sélectionnée pour déplacer la sélection"
+msgstr "Faites glisser n'importe quel point de contrôle de la voie pour déplacer les voies sélectionnées"
 
 msgctxt "editor_tip_create_esc"
 msgid "Esc to cancel selection"
@@ -613,23 +613,23 @@ msgstr "Echap pour annuler la sélection"
 
 msgctxt "editor_tip_create_left1"
 msgid "Left click on track control points to select"
-msgstr "Clic gauche sur les points de contrôle des pistes pour sélectionner"
+msgstr "Faites un clic gauche sur le point de contrôle d'une voie pour la sélectionner"
 
 msgctxt "editor_tip_create_left2"
 msgid "Left click on station name plate to edit station details"
-msgstr "Clic gauche sur la vignette de la station pour modifier les détails de la station"
+msgstr "Faites un clic gauche sur la vignette de la station pour modifier les détails de la station"
 
 msgctxt "editor_tip_create_left3"
 msgid "Left click on track control points to reset selection"
-msgstr "Clic gauche sur les points de contrôle des pistes pour réinitialiser la sélection"
+msgstr "Faites un clic gauche sur les points de contrôle des voie pour réinitialiser la sélection"
 
 msgctxt "editor_tip_create_sleft"
 msgid "Shift left click to add or remove points from selection"
-msgstr "Shift clic gauche pour ajouter ou retirer des points de la sélection"
+msgstr "Mainetenez Shift et le clic gauche pour ajouter ou retirer des points de la sélection"
 
 msgctxt "editor_tip_depot_esc"
 msgid "Esc to go to edit mode"
-msgstr "Echap pour venir au mode Edition"
+msgstr "Echap pour passer en mode Edition"
 
 msgctxt "editor_tip_depot_fin_esc"
 msgid "Esc to cancel"
@@ -637,11 +637,11 @@ msgstr "Echap pour annuler"
 
 msgctxt "editor_tip_depot_fin_left"
 msgid "Left click to finish creating a new depot"
-msgstr "Clic gauche pour terminer la création d'un nouveau dépôt"
+msgstr "Faites un clic gauche pour terminer la création d'un nouveau dépôt"
 
 msgctxt "editor_tip_depot_left"
 msgid "Left click to create a new depot"
-msgstr "Clic gauche pour créer un nouveau dépôt"
+msgstr "Faites un clic gauche pour créer un nouveau dépôt"
 
 msgctxt "editor_tip_link_esc"
 msgid "Esc to go to edit mode"
@@ -649,7 +649,7 @@ msgstr "Echap pour revenir au mode Edition"
 
 msgctxt "editor_tip_link_left"
 msgid "Left click to link tracks"
-msgstr "Clic gauche pour lier les pistes"
+msgstr "Faites un clic gauche pour lier les pistes"
 
 msgctxt "editor_tip_link_move"
 msgid "Move away the mouse cursor to cancel"
@@ -661,7 +661,7 @@ msgstr "Echap pour annuler le déplacement"
 
 msgctxt "editor_tip_move_left"
 msgid "Release left button to stop moving control point"
-msgstr "Relâchez le clic gauche pour arrêter le déplacement du point de contrôle"
+msgstr "Relâchez le clic gauche pour fixer le point de contrôle"
 
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
@@ -677,23 +677,23 @@ msgstr "Echap pour annuler"
 
 msgctxt "editor_tip_station_fin_left"
 msgid "Left click to finish creating a new station platform"
-msgstr "Clic gauche pour terminer la création d'un nouveau quai de gare"
+msgstr "Faites un clic gauche pour terminer la création d'un nouveau quai de gare"
 
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr "Clic gauche pour créer un nouveau quai de gare"
+msgstr "Faites un clic gauche pour créer un nouveau quai de gare"
 
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
-msgstr "Ctrl+Z pour annuler la dernière modification"
+msgstr "Ctrl+Z permet d'annuler la dernière modification"
 
 msgctxt "editor_tip_zoom"
 msgid "Zoom in to edit"
-msgstr "Zoomer pour éditer"
+msgstr "Zoomez pour modifier"
 
 msgctxt "editor_warn_zero_leg"
 msgid "At least one travel time is set to 0. Pax AI will get confused when riding this line."
-msgstr "Al menos uno de los tiempos de viaje está a 0. La IA no podrá elaborar planes de viaje correctamente."
+msgstr "Au moins un temps de trajet est initialisé à 0. L'IA passager ne saura pas gérer cette ligne correctement."
 
 msgctxt "enabled"
 msgid "Enabled"
@@ -713,15 +713,15 @@ msgstr "Erreur de lecture du fichier"
 
 msgctxt "error_reading_file_desc"
 msgid "The system does not allow to read the selected file, or its format is not valid game data"
-msgstr "Le système ne peut pas lire le fichier sélectionné, ou il ne contient pas de données de jeu valables."
+msgstr "Le système ne peut pas lire le fichier sélectionné ou bien il ne contient pas de données de jeu valables."
 
 msgctxt "error_save"
 msgid "Corrupted game state"
-msgstr "Jeu corrompu"
+msgstr "Sauvegarde corrompue"
 
 msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
-msgstr "Erreur interne lors de la sauvegarde du jeu"
+msgstr "Erreur interne lors de la sauvegarde de la partie"
 
 msgctxt "error_too_new_save"
 msgid "The game version that created this save file is newer than your game version. Update the game to load this file."
@@ -729,7 +729,7 @@ msgstr "La version du jeu qui a créé cette partie est plus récente que votre 
 
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded."
-msgstr "La version du jeu qui a créé cette partie est trop ancienne et ne peut être chargée."
+msgstr "La version du jeu qui a créé cette partie est trop ancienne et celle-ci ne peut être chargée."
 
 msgctxt "error_writing_file"
 msgid "Error writing to file"
@@ -737,7 +737,7 @@ msgstr "Erreur d'écriture du fichier"
 
 msgctxt "error_writing_file_desc"
 msgid "The system does not allow to write in the selected file"
-msgstr "Le système ne permet pas d'écrire dans le dossier sélectionné"
+msgstr "Le système n'autorise pas l'écriture dans le dossier sélectionné"
 
 msgctxt "ev_refunds"
 msgid "{} refunds"
@@ -761,7 +761,7 @@ msgstr "Occupé"
 
 msgctxt "friend_state_connected"
 msgid "Connected"
-msgstr "Conecté"
+msgstr "Connecté"
 
 msgctxt "friend_state_connected_here"
 msgid "Conn. here"
@@ -773,7 +773,7 @@ msgstr "Conn. ailleurs"
 
 msgctxt "friend_state_hosting"
 msgid "Hosting"
-msgstr "Hébergeur"
+msgstr "Héberge une partie"
 
 msgctxt "friend_state_in_game"
 msgid "In-game"
@@ -813,7 +813,7 @@ msgstr "Ignoré"
 
 msgctxt "info_table_count"
 msgid "Count"
-msgstr "Compte"
+msgstr "Nombre"
 
 msgctxt "info_table_pax_destination"
 msgid "Destination"
@@ -861,7 +861,7 @@ msgstr "Invalide"
 
 msgctxt "join"
 msgid "Join"
-msgstr "Rejoidre"
+msgstr "Rejoindre"
 
 msgctxt "join_game"
 msgid "Join game"
@@ -869,11 +869,11 @@ msgstr "Rejoindre la partie"
 
 msgctxt "joincode_client_info"
 msgid "Paste a join code to join a player hosted server. If the player is offline or ignores your request, the connection will fail."
-msgstr "Collez un code de connexion pour rejoindre un serveur hébergé par un joueur. Si le joueur est hors ligne ou ignore votre demande, la connexion échouera."
+msgstr "Entrez un code de connexion pour rejoindre un serveur hébergé par un joueur. Si le joueur est hors ligne ou ignore votre demande, la connexion échouera."
 
 msgctxt "joincode_server_info"
 msgid "This join code allows any player to join your hosted game, even if they are not in your friend list. Make sure your Access rules are set to Allow or to Ask, otherwise players will be ignored even if they have a correct join code."
-msgstr "Cette clé permet à tout joueur de rejoindre votre partie hébergée, même s'il n'est pas dans votre liste d'amis. Assurez-vous que vos règles d'accès sont réglées sur Autoriser ou Demander, sinon les joueurs seront ignorés même s'ils ont une clé correcte"
+msgstr "Cette clé permet à tout joueur de rejoindre la partie que vous hébergez, même s'il n'est pas dans votre liste d'amis. Assurez-vous que vos règles d'accès sont réglées sur Autoriser ou Demander, sinon les joueurs seront ignorés même s'ils ont une clé correcte"
 
 msgctxt "joint_multiplayer_name"
 msgid "Join multiplayer game"
@@ -889,11 +889,11 @@ msgstr "Langue:"
 
 msgctxt "line_0_stops"
 msgid "0 stops"
-msgstr "0 arrêts"
+msgstr "Aucun arrêt"
 
 msgctxt "line_error_no_path_between_stops"
 msgid "Cannot find path!"
-msgstr "Impossible de trouver le chemin !"
+msgstr "Impossible de trouver un chemin !"
 
 msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
@@ -909,7 +909,7 @@ msgstr "Les nouveaux arrêts sont insérés ici"
 
 msgctxt "line_state"
 msgid "State"
-msgstr "Etat"
+msgstr "État"
 
 msgctxt "line_stop_arrival_header"
 msgid "Arrival"
@@ -925,7 +925,7 @@ msgstr "Voyage"
 
 msgctxt "line_stop_interval_header"
 msgid "Interval"
-msgstr "Interval"
+msgstr "Intervalle"
 
 msgctxt "line_stop_min_header"
 msgid "Min."
@@ -933,7 +933,7 @@ msgstr "Min."
 
 msgctxt "line_stop_passthru_short"
 msgid "Pass"
-msgstr "Pass"
+msgstr "Pass" (?)
 
 msgctxt "line_stop_wait_header"
 msgid "Wait"
@@ -953,7 +953,7 @@ msgstr "Section moyenne (mm:ss):"
 
 msgctxt "lineeditor_auto_eta_run"
 msgid "Estimate travel times"
-msgstr "Estimer les temps de voyage"
+msgstr "Estimer les temps de trajet"
 
 msgctxt "lineeditor_auto_eta_speed"
 msgid "Ideal speed (km/h):"
@@ -969,7 +969,7 @@ msgstr "Intervalle min. (mm:ss):"
 
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr Construisez votre plan de route pour activer cette plateforme"
+msgstr Construisez votre plan de route pour activer ce quai"
 
 msgctxt "lineeditor_code"
 msgid "Code:"
@@ -985,7 +985,7 @@ msgstr "Nom:"
 
 msgctxt "lineeditor_price_base"
 msgid "Base ticket price:"
-msgstr "Prix du billet de base:"
+msgstr "Prix de base du billet:"
 
 msgctxt "lineeditor_price_km"
 msgid "Price per km:"
