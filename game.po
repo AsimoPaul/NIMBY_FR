@@ -533,7 +533,7 @@ msgstr "Ajouter aux voies ou en créer de nouvelles"
 
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr "Créer de nouvelles embranchement de voies"
+msgstr "Créer de nouveaux embranchements"
 
 msgctxt "editor_depot"
 msgid "Create new depot"
