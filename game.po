@@ -237,7 +237,7 @@ msgstr "Intervalle de sauvegarde:"
 
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Autosave totales:" ("Sauvegardes automatiques" plus simplement peut-être)
+msgstr "Sauvegardes automatiques:"
 
 msgctxt "autosaving"
 msgid "Autosaving..."
