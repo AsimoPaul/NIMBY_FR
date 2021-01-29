@@ -5,9 +5,9 @@ author=Asimo
 version=1.0.0
 
 [Language]
-code_iso_639_2=FRfr
+code_iso_639_2=FR
 name=Français
 
 [LanguageDict]
-code_iso_639_2=FRfr
+code_iso_639_2=FR
 po=game.po
