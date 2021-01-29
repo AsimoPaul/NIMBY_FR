@@ -461,7 +461,7 @@ msgstr "Coréen"
 
 msgctxt "default_han_font_zho"
 msgid "Traditional Chinese"
-msgstr "Chinois tradionnel"
+msgstr "Chinois traditionnel"
 
 msgctxt "default_train_name"
 msgid "Train {}"
@@ -677,11 +677,11 @@ msgstr "Echap pour annuler"
 
 msgctxt "editor_tip_station_fin_left"
 msgid "Left click to finish creating a new station platform"
-msgstr "Faites un clic gauche pour terminer la création d'un nouveau quai de gare"
+msgstr "Faites un clic gauche pour terminer la création d'un nouveau quai"
 
 msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
-msgstr "Faites un clic gauche pour créer un nouveau quai de gare"
+msgstr "Faites un clic gauche pour créer un nouveau quai"
 
 msgctxt "editor_tip_undo"
 msgid "Ctrl-Z to undo the last edit"
@@ -797,7 +797,7 @@ msgstr "Amis"
 
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
-msgstr "Facture des plans globaux"
+msgstr "Prix des plans globaux"
 
 msgctxt "host_game"
 msgid "Host game"
@@ -833,7 +833,7 @@ msgstr "Origine"
 
 msgctxt "info_table_pax_sax"
 msgid "Sax"
-msgstr "Sax"
+msgstr "Sact."
 
 msgctxt "info_table_pax_total"
 msgid "Total"
@@ -881,7 +881,7 @@ msgstr "Rejoindre une partie Multijoueur"
 
 msgctxt "key_info"
 msgid "Key: "
-msgstr "Clé: "
+msgstr "Touche: "
 
 msgctxt "language_pick"
 msgid "Language:"
