@@ -53,7 +53,7 @@ msgstr "Stations"
 
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total constructions"
+msgstr "Total"
 
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
@@ -389,7 +389,7 @@ msgstr "Connexion refusée"
 
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
-msgstr "Il n'y a pas de plans de voies ou de gares à construire"
+msgstr "Il n'y a pas de voies ou de stations à construire"
 
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
@@ -797,7 +797,7 @@ msgstr "Amis"
 
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
-msgstr "Prix des plans globaux"
+msgstr "Prix des plans (Global)"
 
 msgctxt "host_game"
 msgid "Host game"
@@ -1709,7 +1709,7 @@ msgstr "Monde"
 
 msgctxt "selection_blueprint_bill"
 msgid "Selected blueprints bill"
-msgstr "Prix des plans sélectionnés"
+msgstr "Prix des plans (Sélection)"
 
 msgctxt "settings"
 msgid "Settings"
