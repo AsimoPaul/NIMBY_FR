@@ -53,7 +53,7 @@ msgstr "Stations"
 
 msgctxt "accounting_construction_total"
 msgid "Total construction"
-msgstr "Total"
+msgstr "Total constructions"
 
 msgctxt "accounting_construction_tracks"
 msgid "Tracks"
@@ -389,7 +389,7 @@ msgstr "Connexion refusée"
 
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
-msgstr "Il n'y a pas de voies ou de stations à construire"
+msgstr "Il n'y a pas de voies ou de quais à construire"
 
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
@@ -553,7 +553,7 @@ msgstr "Cliquez sur les sections de voie pour ajouter des points de passage"
 
 msgctxt "editor_select_pick_depot"
 msgid "Click a depot on the map to set this train slot order"
-msgstr "Cliquez sur un dépôt sur la carte pour éditer l'ordre"
+msgstr "Cliquez sur un dépôt sur la carte pour y affecter ce créneau"
 
 msgctxt "editor_station"
 msgid "Create new station platforms"
