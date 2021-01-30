@@ -1133,7 +1133,7 @@ msgstr "Original"
 
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Nom sur la carte:"
+msgstr "Noms sur la carte:"
 
 msgctxt "matches_n_0"
 msgid "0 coincidencias"
