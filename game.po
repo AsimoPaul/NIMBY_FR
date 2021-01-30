@@ -113,7 +113,7 @@ msgstr "Refus de payer suite un tarif trop élevé"
 
 msgctxt "accounting_pax_spawned"
 msgid "Started trip"
-msgstr "Voyage commencé"
+msgstr "Trajet commencé"
 
 msgctxt "accounting_pax_waited_too_long"
 msgid "Waited too long"
@@ -233,11 +233,11 @@ msgstr "Si un étranger non invité veut entrer :"
 
 msgctxt "autosave_interval"
 msgid "Autosave interval:"
-msgstr "Intervalle de sauvegarde:"
+msgstr "Intervalle sauvegardes:"
 
 msgctxt "autosave_slots"
 msgid "Autosave slots:"
-msgstr "Sauvegardes automatiques:"
+msgstr "Nb de sauvegardes auto:"
 
 msgctxt "autosaving"
 msgid "Autosaving..."
@@ -533,7 +533,7 @@ msgstr "Ajouter aux voies ou en créer de nouvelles"
 
 msgctxt "editor_branch"
 msgid "Create new track branches"
-msgstr "Créer de nouveaux embranchements"
+msgstr "Créer de nouveaux aiguillages"
 
 msgctxt "editor_depot"
 msgid "Create new depot"
@@ -577,7 +577,7 @@ msgstr "Echap pour revenir au mode Edition"
 
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
-msgstr "Faites un clic gauche pour créer cet embranchement"
+msgstr "Faites un clic gauche pour créer cet aiguillage"
 
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to see a new track branch"
@@ -921,7 +921,7 @@ msgstr "Distance"
 
 msgctxt "line_stop_eta_header"
 msgid "Travel"
-msgstr "Voyage"
+msgstr "Trajet"
 
 msgctxt "line_stop_interval_header"
 msgid "Interval"
@@ -1129,11 +1129,11 @@ msgstr "Anglais"
 
 msgctxt "map_names_native"
 msgid "Native"
-msgstr "Native"
+msgstr "Original"
 
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Langue de la carte:"
+msgstr "Nom sur la carte:"
 
 msgctxt "matches_n_0"
 msgid "0 coincidencias"
@@ -1225,23 +1225,23 @@ msgstr "Version:"
 
 msgctxt "mode_map_default"
 msgid "Plain map"
-msgstr "Carte vierge"
+msgstr "Carte par défaut"
 
 msgctxt "mode_map_population"
 msgid "Population overlay"
-msgstr "Carte de la population"
+msgstr "Carte démographique"
 
 msgctxt "mode_map_tracks"
 msgid "Plain tracks"
-msgstr "Voies"
+msgstr "Afficher les voies"
 
 msgctxt "mode_map_tracks_lines"
 msgid "Lines overlay"
-msgstr "Affichage des lignes"
+msgstr "Afficher les lignes"
 
 msgctxt "mode_map_tracks_speed"
 msgid "Speed overlay"
-msgstr "Affichage des vitesses"
+msgstr "Afficher les vitesses"
 
 msgctxt "mods"
 msgid "Mods"
@@ -1873,7 +1873,7 @@ msgstr "Couleur de base:"
 
 msgctxt "train_bill"
 msgid "Train bill"
-msgstr "Billet de train"
+msgstr "Facture d'achat de train"
 
 msgctxt "train_clone"
 msgid "Clone"
@@ -1885,15 +1885,15 @@ msgstr "N. série:"
 
 msgctxt "train_decal_color_edit"
 msgid "Decal color:"
-msgstr "Couleur du motif:"
+msgstr "Couleur de la livrée:"
 
 msgctxt "train_decal_edit"
 msgid "Decal:"
-msgstr "Motif:"
+msgstr "Livrée:"
 
 msgctxt "train_decal_pick_edit"
 msgid "Pick a decal"
-msgstr "Choisissez un motif"
+msgstr "Choisissez une livrée"
 
 msgctxt "train_decal_use_line_color"
 msgid "Use line color"
@@ -1929,7 +1929,7 @@ msgstr "Emplacement:"
 
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenace cost:"
-msgstr "Coûts de maintenance:"
+msgstr "Coût d'entretien:"
 
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
@@ -1953,7 +1953,7 @@ msgstr "Pax / max:"
 
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "Coûts de fonctionnement:"
+msgstr "Coût de circulation:"
 
 msgctxt "train_info_running_cost_f"
 msgid "${:.4} per km per pax"
@@ -2001,7 +2001,7 @@ msgstr "Ordres invalides"
 
 msgctxt "train_list_filter_alert"
 msgid "Only alert warnings"
-msgstr "Seulement les avertissements d'alerte"
+msgstr "Seulement les alertes"
 
 msgctxt "train_list_filter_all_lines"
 msgid "All lines"
@@ -2021,7 +2021,7 @@ msgstr "Voitures:"
 
 msgctxt "train_n_units"
 msgid "Units:"
-msgstr "Unités:"
+msgstr "Quantité:"
 
 msgctxt "train_name_edit"
 msgid "Name:"
@@ -2149,11 +2149,11 @@ msgstr "Débuter à partir de:"
 
 msgctxt "train_total_price_1"
 msgid "Total for 1 unit"
-msgstr "Total pour 1 unité"
+msgstr "Total pour 1 rame"
 
 msgctxt "train_total_price_many"
 msgid "Total for %d units"
-msgstr "Total pour %d unités"
+msgstr "Total pour %d rames"
 
 msgctxt "traineditor_clear_selection"
 msgid "Clear selection"
@@ -2273,7 +2273,7 @@ msgstr "Un Mod est toujours en cours de création et / ou de mise à jour, veuil
 
 msgctxt "unit_price"
 msgid "Unit price"
-msgstr "Prix unitaire"
+msgstr "Prix d'une rame"
 
 msgctxt "unknown"
 msgid "Unknown"
