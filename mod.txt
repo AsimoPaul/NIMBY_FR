@@ -11,3 +11,4 @@ name=Français
 [LanguageDict]
 code_iso_639_2=FR
 po=game.po
+
