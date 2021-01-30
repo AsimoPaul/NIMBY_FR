@@ -949,7 +949,7 @@ msgstr "{} à"
 
 msgctxt "lineeditor_auto_eta_avg_branch_wait"
 msgid "Avg. branch (mm:ss):"
-msgstr "Section moyenne (mm:ss):"
+msgstr "Section moyenne (hh:mm:ss):"
 
 msgctxt "lineeditor_auto_eta_run"
 msgid "Estimate travel times"
@@ -965,7 +965,7 @@ msgstr "Régler les temps d'intervalle min."
 
 msgctxt "lineeditor_auto_inverval"
 msgid "Min. interval (mm:ss):"
-msgstr "Intervalle min. (mm:ss):"
+msgstr "Intervalle min. (hh:mm:ss):"
 
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
