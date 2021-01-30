@@ -801,7 +801,7 @@ msgstr "Prix des plans (Global)"
 
 msgctxt "host_game"
 msgid "Host game"
-msgstr "Hôte de la partie"
+msgstr "Héberger une partie"
 
 msgctxt "icon_file"
 msgid "Icon file:"
@@ -865,7 +865,7 @@ msgstr "Rejoindre"
 
 msgctxt "join_game"
 msgid "Join game"
-msgstr "Rejoindre la partie"
+msgstr "Rejoindre une partie"
 
 msgctxt "joincode_client_info"
 msgid "Paste a join code to join a player hosted server. If the player is offline or ignores your request, the connection will fail."
